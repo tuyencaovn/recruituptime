@@ -9,7 +9,7 @@ sites:
   - name: Recruit Connect - API
     url: https://api.recruitconnect.vn
   - name: Recruit Connect - ES Status
-    url: https://api.recruitconnect.vn/elasticsearch/max-listener
+    url: https://api.recruitconnect.vn/elasticsearch/check-status
 
 status-website:
   cname: all.webuptime2023.online
