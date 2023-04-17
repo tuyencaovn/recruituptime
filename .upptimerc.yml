@@ -3,7 +3,7 @@ repo: recruituptime
 
 sites:
   - name: Recruit Connect - Web
-    url: https://recruitconnect_11.vn
+    url: https://recruitconnect.vn
   - name: Recruit Connect - BackOffice
     url: https://admin.recruitconnect.vn
   - name: Recruit Connect - API
