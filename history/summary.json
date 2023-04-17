@@ -1,22 +1,22 @@
 [
   {
     "name": "Recruit Connect - Web",
-    "url": "https://recruitconnect_11.vn",
-    "icon": "https://icons.duckduckgo.com/ip3/recruitconnect_11.vn.ico",
+    "url": "https://recruitconnect.vn",
+    "icon": "https://icons.duckduckgo.com/ip3/recruitconnect.vn.ico",
     "slug": "recruit-connect-web",
-    "status": "down",
-    "uptime": "99.84%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.84%",
-    "uptimeYear": "99.84%",
-    "time": 1029,
-    "timeDay": 1029,
-    "timeWeek": 1029,
-    "timeMonth": 1029,
-    "timeYear": 1029,
+    "status": "up",
+    "uptime": "83.61%",
+    "uptimeDay": "83.61%",
+    "uptimeWeek": "83.61%",
+    "uptimeMonth": "83.61%",
+    "uptimeYear": "83.61%",
+    "time": 1005,
+    "timeDay": 1005,
+    "timeWeek": 1005,
+    "timeMonth": 1005,
+    "timeYear": 1005,
     "dailyMinutesDown": {
-      "2023-04-17": 0
+      "2023-04-17": 27
     }
   },
   {
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/admin.recruitconnect.vn.ico",
     "slug": "recruit-connect-back-office",
     "status": "up",
-    "uptime": "88.91%",
-    "uptimeDay": "88.91%",
-    "uptimeWeek": "88.91%",
-    "uptimeMonth": "88.91%",
-    "uptimeYear": "88.91%",
-    "time": 940,
-    "timeDay": 940,
-    "timeWeek": 940,
-    "timeMonth": 940,
-    "timeYear": 940,
+    "uptime": "90.73%",
+    "uptimeDay": "90.73%",
+    "uptimeWeek": "90.73%",
+    "uptimeMonth": "90.73%",
+    "uptimeYear": "90.73%",
+    "time": 992,
+    "timeDay": 992,
+    "timeWeek": 992,
+    "timeMonth": 992,
+    "timeYear": 992,
     "dailyMinutesDown": {
       "2023-04-17": 15
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1042,
-    "timeDay": 1042,
-    "timeWeek": 1042,
-    "timeMonth": 1042,
-    "timeYear": 1042,
+    "time": 1021,
+    "timeDay": 1021,
+    "timeWeek": 1021,
+    "timeMonth": 1021,
+    "timeYear": 1021,
     "dailyMinutesDown": {}
   }
 ]
