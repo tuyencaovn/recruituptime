@@ -2,7 +2,7 @@ owner: tuyencaovn
 repo: recruituptime
 
 sites:
-  - name: Recruit Connect - Web
+  - name: Recruit Connect - Website
     url: https://recruitconnect.vn
   - name: Recruit Connect - BackOffice
     url: https://admin.recruitconnect.vn
