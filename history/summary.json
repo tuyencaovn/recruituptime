@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/recruitconnect.vn.ico",
     "slug": "recruit-connect-website",
     "status": "up",
-    "uptime": "12.46%",
-    "uptimeDay": "12.46%",
-    "uptimeWeek": "12.46%",
-    "uptimeMonth": "12.46%",
-    "uptimeYear": "12.46%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1060,
     "timeDay": 1060,
     "timeWeek": 1060,
     "timeMonth": 1060,
     "timeYear": 1060,
-    "dailyMinutesDown": {
-      "2023-04-17": 3
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Recruit Connect - BackOffice",
