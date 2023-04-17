@@ -5,7 +5,7 @@ sites:
   - name: Recruit Connect - Web
     url: https://recruitconnect.vn
   - name: Recruit Connect - BackOffice
-    url: https://admin.recruitconnect.vn
+    url: https://admin_11.recruitconnect.vn
   - name: Recruit Connect - API
     url: https://api.recruitconnect.vn
 
