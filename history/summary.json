@@ -1,21 +1,23 @@
 [
   {
     "name": "Recruit Connect - Web",
-    "url": "https://recruitconnect.vn",
-    "icon": "https://icons.duckduckgo.com/ip3/recruitconnect.vn.ico",
+    "url": "https://recruitconnect_11.vn",
+    "icon": "https://icons.duckduckgo.com/ip3/recruitconnect_11.vn.ico",
     "slug": "recruit-connect-web",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.89%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
     "time": 1029,
     "timeDay": 1029,
     "timeWeek": 1029,
     "timeMonth": 1029,
     "timeYear": 1029,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-04-17": 0
+    }
   },
   {
     "name": "Recruit Connect - BackOffice",
@@ -23,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/admin.recruitconnect.vn.ico",
     "slug": "recruit-connect-back-office",
     "status": "up",
-    "uptime": "88.46%",
-    "uptimeDay": "88.46%",
-    "uptimeWeek": "88.46%",
-    "uptimeMonth": "88.46%",
-    "uptimeYear": "88.46%",
-    "time": 928,
-    "timeDay": 928,
-    "timeWeek": 928,
-    "timeMonth": 928,
-    "timeYear": 928,
+    "uptime": "88.90%",
+    "uptimeDay": "88.90%",
+    "uptimeWeek": "88.90%",
+    "uptimeMonth": "88.90%",
+    "uptimeYear": "88.90%",
+    "time": 940,
+    "timeDay": 940,
+    "timeWeek": 940,
+    "timeMonth": 940,
+    "timeYear": 940,
     "dailyMinutesDown": {
       "2023-04-17": 15
     }
@@ -48,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1055,
-    "timeDay": 1055,
-    "timeWeek": 1055,
-    "timeMonth": 1055,
-    "timeYear": 1055,
+    "time": 1042,
+    "timeDay": 1042,
+    "timeWeek": 1042,
+    "timeMonth": 1042,
+    "timeYear": 1042,
     "dailyMinutesDown": {}
   }
 ]
