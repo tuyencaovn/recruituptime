@@ -1,22 +1,22 @@
 [
   {
-    "name": "Recruit Connect - Web",
-    "url": "https://recruitconnect.vn",
-    "icon": "https://icons.duckduckgo.com/ip3/recruitconnect.vn.ico",
-    "slug": "recruit-connect-web",
-    "status": "up",
-    "uptime": "83.61%",
-    "uptimeDay": "83.61%",
-    "uptimeWeek": "83.61%",
-    "uptimeMonth": "83.61%",
-    "uptimeYear": "83.61%",
-    "time": 1005,
-    "timeDay": 1005,
-    "timeWeek": 1005,
-    "timeMonth": 1005,
-    "timeYear": 1005,
+    "name": "Recruit Connect - Website",
+    "url": "https://recruitconnect_111.vn",
+    "icon": "https://icons.duckduckgo.com/ip3/recruitconnect_111.vn.ico",
+    "slug": "recruit-connect-website",
+    "status": "down",
+    "uptime": "75.63%",
+    "uptimeDay": "75.63%",
+    "uptimeWeek": "75.63%",
+    "uptimeMonth": "75.63%",
+    "uptimeYear": "75.63%",
+    "time": 856,
+    "timeDay": 856,
+    "timeWeek": 856,
+    "timeMonth": 856,
+    "timeYear": 856,
     "dailyMinutesDown": {
-      "2023-04-17": 27
+      "2023-04-17": 0
     }
   },
   {
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/admin.recruitconnect.vn.ico",
     "slug": "recruit-connect-back-office",
     "status": "up",
-    "uptime": "90.74%",
-    "uptimeDay": "90.74%",
-    "uptimeWeek": "90.74%",
-    "uptimeMonth": "90.74%",
-    "uptimeYear": "90.74%",
-    "time": 992,
-    "timeDay": 992,
-    "timeWeek": 992,
-    "timeMonth": 992,
-    "timeYear": 992,
+    "uptime": "95.25%",
+    "uptimeDay": "95.25%",
+    "uptimeWeek": "95.25%",
+    "uptimeMonth": "95.25%",
+    "uptimeYear": "95.25%",
+    "time": 972,
+    "timeDay": 972,
+    "timeWeek": 972,
+    "timeMonth": 972,
+    "timeYear": 972,
     "dailyMinutesDown": {
       "2023-04-17": 15
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1021,
-    "timeDay": 1021,
-    "timeWeek": 1021,
-    "timeMonth": 1021,
-    "timeYear": 1021,
+    "time": 997,
+    "timeDay": 997,
+    "timeWeek": 997,
+    "timeMonth": 997,
+    "timeYear": 997,
     "dailyMinutesDown": {}
   }
 ]
