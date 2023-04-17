@@ -10,30 +10,32 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1025,
-    "timeDay": 1025,
-    "timeWeek": 1025,
-    "timeMonth": 1025,
-    "timeYear": 1025,
+    "time": 1028,
+    "timeDay": 1028,
+    "timeWeek": 1028,
+    "timeMonth": 1028,
+    "timeYear": 1028,
     "dailyMinutesDown": {}
   },
   {
     "name": "Recruit Connect - BackOffice",
-    "url": "https://admin.recruitconnect.vn",
-    "icon": "https://icons.duckduckgo.com/ip3/admin.recruitconnect.vn.ico",
+    "url": "https://admin_11.recruitconnect.vn",
+    "icon": "https://icons.duckduckgo.com/ip3/admin_11.recruitconnect.vn.ico",
     "slug": "recruit-connect-back-office",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.83%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.83%",
     "time": 1021,
     "timeDay": 1021,
     "timeWeek": 1021,
     "timeMonth": 1021,
     "timeYear": 1021,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-04-17": 0
+    }
   },
   {
     "name": "Recruit Connect - API",
@@ -46,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1185,
-    "timeDay": 1185,
-    "timeWeek": 1185,
-    "timeMonth": 1185,
-    "timeYear": 1185,
+    "time": 1125,
+    "timeDay": 1125,
+    "timeWeek": 1125,
+    "timeMonth": 1125,
+    "timeYear": 1125,
     "dailyMinutesDown": {}
   }
 ]
