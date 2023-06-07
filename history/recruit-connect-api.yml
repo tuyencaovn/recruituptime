@@ -1,7 +1,7 @@
 url: https://api.recruitconnect.vn
-status: up
-code: 200
-responseTime: 1010
-lastUpdated: 2023-06-06T23:04:05.230Z
+status: down
+code: 502
+responseTime: 1001
+lastUpdated: 2023-06-07T20:42:49.998Z
 startTime: Mon Apr 17 2023 05:14:16 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
