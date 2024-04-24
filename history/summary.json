@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/recruitconnect.vn.ico",
     "slug": "recruit-connect-website",
     "status": "up",
-    "uptime": "99.60%",
+    "uptime": "99.61%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.52%",
     "uptimeYear": "99.63%",
-    "time": 1391,
-    "timeDay": 1937,
-    "timeWeek": 1871,
-    "timeMonth": 2007,
-    "timeYear": 1397,
+    "time": 1393,
+    "timeDay": 2205,
+    "timeWeek": 1900,
+    "timeMonth": 2012,
+    "timeYear": 1400,
     "dailyMinutesDown": {
       "2024-04-15": 148,
       "2024-03-26": 61,
@@ -35,8 +35,7 @@
       "2023-05-27": 176,
       "2023-05-26": 161,
       "2023-05-04": 23,
-      "2023-05-03": 21,
-      "2023-04-25": 22
+      "2023-05-03": 21
     }
   },
   {
@@ -45,18 +44,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/admin.recruitconnect.vn.ico",
     "slug": "recruit-connect-back-office",
     "status": "down",
-    "uptime": "96.28%",
+    "uptime": "96.03%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "6.29%",
-    "uptimeMonth": "77.96%",
-    "uptimeYear": "96.25%",
-    "time": 1153,
-    "timeDay": 993,
-    "timeWeek": 1141,
-    "timeMonth": 1103,
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "74.68%",
+    "uptimeYear": "95.98%",
+    "time": 1152,
+    "timeDay": 1008,
+    "timeWeek": 1102,
+    "timeMonth": 1097,
     "timeYear": 1164,
     "dailyMinutesDown": {
-      "2024-04-23": 59,
+      "2024-04-24": 59,
+      "2024-04-23": 1440,
       "2024-04-22": 1440,
       "2024-04-21": 1440,
       "2024-04-20": 1440,
@@ -83,8 +83,7 @@
       "2023-05-30": 104,
       "2023-05-27": 101,
       "2023-05-26": 160,
-      "2023-05-03": 21,
-      "2023-04-25": 36
+      "2023-05-03": 21
     }
   },
   {
@@ -95,13 +94,13 @@
     "status": "up",
     "uptime": "99.43%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "91.39%",
+    "uptimeWeek": "99.38%",
     "uptimeMonth": "97.60%",
     "uptimeYear": "99.45%",
     "time": 1372,
-    "timeDay": 1211,
-    "timeWeek": 4598,
-    "timeMonth": 2116,
+    "timeDay": 1253,
+    "timeWeek": 1173,
+    "timeMonth": 2117,
     "timeYear": 1383,
     "dailyMinutesDown": {
       "2024-04-17": 121,
@@ -122,8 +121,7 @@
       "2023-06-07": 197,
       "2023-05-30": 92,
       "2023-05-27": 136,
-      "2023-05-26": 149,
-      "2023-04-25": 21
+      "2023-05-26": 149
     }
   },
   {
@@ -134,12 +132,12 @@
     "status": "up",
     "uptime": "97.61%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "91.02%",
+    "uptimeWeek": "98.84%",
     "uptimeMonth": "84.31%",
-    "uptimeYear": "97.79%",
+    "uptimeYear": "97.87%",
     "time": 302,
-    "timeDay": 249,
-    "timeWeek": 268,
+    "timeDay": 266,
+    "timeWeek": 260,
     "timeMonth": 313,
     "timeYear": 303,
     "dailyMinutesDown": {
