@@ -1,7 +1,7 @@
 url: https://admin.recruitconnect.vn
-status: up
-code: 200
-responseTime: 1262
-lastUpdated: 2024-09-24T23:37:30.991Z
+status: down
+code: 502
+responseTime: 1085
+lastUpdated: 2024-09-24T23:44:18.997Z
 startTime: 2023-04-17T05:15:24.000Z
 generator: Upptime <https://github.com/upptime/upptime>
