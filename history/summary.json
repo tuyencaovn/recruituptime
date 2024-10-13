@@ -10,11 +10,11 @@
     "uptimeWeek": "98.94%",
     "uptimeMonth": "99.71%",
     "uptimeYear": "99.63%",
-    "time": 1763,
-    "timeDay": 2324,
-    "timeWeek": 4779,
-    "timeMonth": 3119,
-    "timeYear": 1899,
+    "time": 1765,
+    "timeDay": 2148,
+    "timeWeek": 4821,
+    "timeMonth": 3125,
+    "timeYear": 1902,
     "dailyMinutesDown": {
       "2024-10-12": 20,
       "2024-10-09": 54,
@@ -41,8 +41,7 @@
       "2023-11-27": 56,
       "2023-11-14": 121,
       "2023-11-13": 408,
-      "2023-10-26": 181,
-      "2023-10-14": 29
+      "2023-10-26": 181
     }
   },
   {
@@ -51,16 +50,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/admin.recruitconnect.vn.ico",
     "slug": "recruit-connect-back-office",
     "status": "up",
-    "uptime": "94.23%",
+    "uptime": "94.24%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.11%",
-    "uptimeYear": "92.79%",
-    "time": 1340,
-    "timeDay": 1471,
-    "timeWeek": 1246,
-    "timeMonth": 2958,
-    "timeYear": 1403,
+    "uptimeYear": "92.92%",
+    "time": 1341,
+    "timeDay": 1319,
+    "timeWeek": 1298,
+    "timeMonth": 2963,
+    "timeYear": 1404,
     "dailyMinutesDown": {
       "2024-09-25": 106,
       "2024-09-24": 282,
@@ -99,8 +98,7 @@
       "2024-02-02": 19,
       "2023-12-25": 22,
       "2023-11-27": 22,
-      "2023-11-13": 25,
-      "2023-10-14": 762
+      "2023-11-13": 25
     }
   },
   {
@@ -115,9 +113,9 @@
     "uptimeMonth": "98.73%",
     "uptimeYear": "98.93%",
     "time": 1279,
-    "timeDay": 4214,
-    "timeWeek": 1500,
-    "timeMonth": 1319,
+    "timeDay": 1245,
+    "timeWeek": 1554,
+    "timeMonth": 1326,
     "timeYear": 1303,
     "dailyMinutesDown": {
       "2024-09-25": 122,
@@ -160,8 +158,8 @@
     "uptimeMonth": "98.74%",
     "uptimeYear": "97.33%",
     "time": 289,
-    "timeDay": 265,
-    "timeWeek": 247,
+    "timeDay": 271,
+    "timeWeek": 251,
     "timeMonth": 264,
     "timeYear": 283,
     "dailyMinutesDown": {
