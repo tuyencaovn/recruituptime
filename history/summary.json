@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.59%",
-    "time": 2074,
-    "timeDay": 2426,
-    "timeWeek": 3914,
-    "timeMonth": 2757,
-    "timeYear": 2436,
+    "time": 2076,
+    "timeDay": 2209,
+    "timeWeek": 3919,
+    "timeMonth": 2750,
+    "timeYear": 2438,
     "dailyMinutesDown": {
       "2025-01-07": 17,
       "2025-01-04": 15,
@@ -39,8 +39,7 @@
       "2024-04-15": 148,
       "2024-03-26": 61,
       "2024-03-12": 64,
-      "2024-03-01": 19,
-      "2024-02-23": 51
+      "2024-03-01": 19
     }
   },
   {
@@ -49,15 +48,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/admin.recruitconnect.vn.ico",
     "slug": "recruit-connect-back-office",
     "status": "up",
-    "uptime": "95.35%",
+    "uptime": "95.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "93.34%",
-    "time": 1378,
-    "timeDay": 1592,
-    "timeWeek": 1498,
-    "timeMonth": 1338,
+    "time": 1377,
+    "timeDay": 1021,
+    "timeWeek": 1476,
+    "timeMonth": 1333,
     "timeYear": 1471,
     "dailyMinutesDown": {
       "2024-11-06": 17,
@@ -109,9 +108,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.10%",
     "time": 1295,
-    "timeDay": 1440,
-    "timeWeek": 1308,
-    "timeMonth": 1348,
+    "timeDay": 977,
+    "timeWeek": 1312,
+    "timeMonth": 1347,
     "timeYear": 1275,
     "dailyMinutesDown": {
       "2024-11-06": 29,
@@ -132,8 +131,7 @@
       "2024-04-17": 121,
       "2024-04-16": 746,
       "2024-04-15": 124,
-      "2024-03-26": 60,
-      "2024-02-23": 96
+      "2024-03-26": 60
     }
   },
   {
@@ -142,13 +140,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.recruitconnect.vn.ico",
     "slug": "recruit-connect-es-status",
     "status": "up",
-    "uptime": "98.38%",
+    "uptime": "98.39%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.56%",
-    "time": 299,
-    "timeDay": 295,
+    "time": 298,
+    "timeDay": 275,
     "timeWeek": 284,
     "timeMonth": 285,
     "timeYear": 297,
@@ -213,8 +211,7 @@
       "2024-03-26": 430,
       "2024-03-22": 108,
       "2024-03-13": 591,
-      "2024-03-12": 1032,
-      "2024-02-23": 96
+      "2024-03-12": 1032
     }
   }
 ]
