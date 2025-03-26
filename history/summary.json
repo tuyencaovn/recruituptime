@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.70%",
     "uptimeYear": "99.60%",
-    "time": 2533,
-    "timeDay": 2027,
-    "timeWeek": 2078,
-    "timeMonth": 7031,
-    "timeYear": 2966,
+    "time": 2530,
+    "timeDay": 2590,
+    "timeWeek": 2143,
+    "timeMonth": 7034,
+    "timeYear": 2967,
     "dailyMinutesDown": {
       "2025-03-06": 36,
       "2025-03-05": 63,
@@ -39,8 +39,7 @@
       "2024-07-03": 299,
       "2024-05-21": 19,
       "2024-05-10": 18,
-      "2024-04-15": 148,
-      "2024-03-26": 61
+      "2024-04-15": 148
     }
   },
   {
@@ -54,11 +53,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "93.34%",
-    "time": 1392,
-    "timeDay": 817,
-    "timeWeek": 1221,
-    "timeMonth": 1313,
-    "timeYear": 1487,
+    "time": 1393,
+    "timeDay": 1286,
+    "timeWeek": 1201,
+    "timeMonth": 1319,
+    "timeYear": 1488,
     "dailyMinutesDown": {
       "2024-11-06": 17,
       "2024-09-25": 106,
@@ -93,8 +92,7 @@
       "2024-04-18": 1440,
       "2024-04-17": 1440,
       "2024-04-16": 747,
-      "2024-04-15": 146,
-      "2024-03-26": 61
+      "2024-04-15": 146
     }
   },
   {
@@ -108,11 +106,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.12%",
-    "time": 1273,
-    "timeDay": 1202,
-    "timeWeek": 1363,
-    "timeMonth": 1356,
-    "timeYear": 1296,
+    "time": 1274,
+    "timeDay": 1575,
+    "timeWeek": 1383,
+    "timeMonth": 1364,
+    "timeYear": 1297,
     "dailyMinutesDown": {
       "2024-11-06": 29,
       "2024-09-25": 122,
@@ -131,8 +129,7 @@
       "2024-04-26": 1115,
       "2024-04-17": 121,
       "2024-04-16": 746,
-      "2024-04-15": 124,
-      "2024-03-26": 60
+      "2024-04-15": 124
     }
   },
   {
@@ -141,18 +138,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.recruitconnect.vn.ico",
     "slug": "recruit-connect-es-status",
     "status": "up",
-    "uptime": "98.50%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptime": "98.46%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "97.91%",
     "time": 293,
-    "timeDay": 256,
-    "timeWeek": 267,
-    "timeMonth": 274,
+    "timeDay": 273,
+    "timeWeek": 270,
+    "timeMonth": 273,
     "timeYear": 297,
     "dailyMinutesDown": {
-      "2025-03-25": 9,
       "2025-01-12": 37,
       "2024-11-06": 17,
       "2024-09-25": 122,
@@ -209,8 +205,7 @@
       "2024-04-03": 523,
       "2024-04-02": 889,
       "2024-04-01": 159,
-      "2024-03-31": 416,
-      "2024-03-26": 430
+      "2024-03-31": 416
     }
   }
 ]
