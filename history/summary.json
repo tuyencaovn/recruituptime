@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.61%",
-    "time": 2548,
-    "timeDay": 1761,
-    "timeWeek": 2255,
-    "timeMonth": 2287,
-    "timeYear": 2979,
+    "time": 2549,
+    "timeDay": 1971,
+    "timeWeek": 2208,
+    "timeMonth": 2264,
+    "timeYear": 2980,
     "dailyMinutesDown": {
       "2025-03-06": 36,
       "2025-03-05": 63,
@@ -54,9 +54,9 @@
     "uptimeMonth": "99.87%",
     "uptimeYear": "93.34%",
     "time": 1399,
-    "timeDay": 984,
-    "timeWeek": 1284,
-    "timeMonth": 1322,
+    "timeDay": 1156,
+    "timeWeek": 1263,
+    "timeMonth": 1312,
     "timeYear": 1497,
     "dailyMinutesDown": {
       "2025-04-01": 58,
@@ -107,10 +107,10 @@
     "uptimeWeek": "99.42%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.12%",
-    "time": 1276,
-    "timeDay": 1211,
-    "timeWeek": 1347,
-    "timeMonth": 1334,
+    "time": 1277,
+    "timeDay": 1168,
+    "timeWeek": 1327,
+    "timeMonth": 1327,
     "timeYear": 1288,
     "dailyMinutesDown": {
       "2025-04-01": 58,
@@ -140,14 +140,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.recruitconnect.vn.ico",
     "slug": "recruit-connect-es-status",
     "status": "up",
-    "uptime": "98.52%",
+    "uptime": "98.53%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.42%",
     "uptimeMonth": "99.78%",
-    "uptimeYear": "98.66%",
+    "uptimeYear": "98.70%",
     "time": 293,
-    "timeDay": 220,
-    "timeWeek": 271,
+    "timeDay": 271,
+    "timeWeek": 269,
     "timeMonth": 269,
     "timeYear": 299,
     "dailyMinutesDown": {
@@ -200,8 +200,7 @@
       "2024-04-15": 107,
       "2024-04-12": 360,
       "2024-04-11": 517,
-      "2024-04-10": 617,
-      "2024-04-08": 125
+      "2024-04-10": 617
     }
   }
 ]
