@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.63%",
-    "time": 2594,
-    "timeDay": 2515,
-    "timeWeek": 2243,
-    "timeMonth": 2268,
+    "time": 2595,
+    "timeDay": 1568,
+    "timeWeek": 2121,
+    "timeMonth": 2245,
     "timeYear": 2997,
     "dailyMinutesDown": {
       "2025-04-11": 25,
@@ -48,16 +48,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/admin.recruitconnect.vn.ico",
     "slug": "recruit-connect-back-office",
     "status": "up",
-    "uptime": "95.78%",
+    "uptime": "95.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
-    "uptimeYear": "97.62%",
+    "uptimeYear": "97.90%",
     "time": 1407,
-    "timeDay": 1184,
-    "timeWeek": 1122,
-    "timeMonth": 1299,
-    "timeYear": 1507,
+    "timeDay": 993,
+    "timeWeek": 1093,
+    "timeMonth": 1288,
+    "timeYear": 1506,
     "dailyMinutesDown": {
       "2025-04-11": 25,
       "2025-04-01": 58,
@@ -75,8 +75,7 @@
       "2024-05-07": 1440,
       "2024-05-06": 1440,
       "2024-05-05": 1440,
-      "2024-05-04": 1440,
-      "2024-05-03": 1440
+      "2024-05-04": 1440
     }
   },
   {
@@ -91,9 +90,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.81%",
     "time": 1270,
-    "timeDay": 1234,
-    "timeWeek": 1104,
-    "timeMonth": 1416,
+    "timeDay": 825,
+    "timeWeek": 1101,
+    "timeMonth": 1398,
     "timeYear": 1238,
     "dailyMinutesDown": {
       "2025-04-11": 16,
@@ -118,15 +117,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.recruitconnect.vn.ico",
     "slug": "recruit-connect-es-status",
     "status": "up",
-    "uptime": "98.57%",
+    "uptime": "98.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.70%",
-    "time": 296,
-    "timeDay": 271,
-    "timeWeek": 259,
-    "timeMonth": 272,
+    "time": 295,
+    "timeDay": 214,
+    "timeWeek": 256,
+    "timeMonth": 270,
     "timeYear": 294,
     "dailyMinutesDown": {
       "2025-04-01": 58,
@@ -167,8 +166,7 @@
       "2024-05-12": 23,
       "2024-05-11": 22,
       "2024-05-08": 25,
-      "2024-05-07": 15,
-      "2024-05-03": 22
+      "2024-05-07": 15
     }
   }
 ]
