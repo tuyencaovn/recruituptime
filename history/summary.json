@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/recruitconnect.vn.ico",
     "slug": "recruit-connect-website",
     "status": "up",
-    "uptime": "99.62%",
+    "uptime": "99.63%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.63%",
-    "time": 2603,
-    "timeDay": 2048,
-    "timeWeek": 2270,
-    "timeMonth": 2243,
-    "timeYear": 2999,
+    "time": 2605,
+    "timeDay": 2505,
+    "timeWeek": 2212,
+    "timeMonth": 2260,
+    "timeYear": 3000,
     "dailyMinutesDown": {
       "2025-04-11": 25,
       "2025-03-06": 36,
@@ -48,15 +48,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/admin.recruitconnect.vn.ico",
     "slug": "recruit-connect-back-office",
     "status": "up",
-    "uptime": "95.81%",
+    "uptime": "95.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
-    "uptimeYear": "98.99%",
+    "uptimeYear": "99.27%",
     "time": 1409,
-    "timeDay": 955,
-    "timeWeek": 1219,
-    "timeMonth": 1282,
+    "timeDay": 1310,
+    "timeWeek": 1205,
+    "timeMonth": 1287,
     "timeYear": 1508,
     "dailyMinutesDown": {
       "2025-04-11": 25,
@@ -70,8 +70,7 @@
       "2024-07-24": 26,
       "2024-07-10": 35,
       "2024-05-10": 266,
-      "2024-05-09": 1440,
-      "2024-05-08": 1440
+      "2024-05-09": 1440
     }
   },
   {
@@ -85,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.81%",
-    "time": 1271,
-    "timeDay": 1356,
-    "timeWeek": 1278,
-    "timeMonth": 1394,
-    "timeYear": 1240,
+    "time": 1272,
+    "timeDay": 1566,
+    "timeWeek": 1288,
+    "timeMonth": 1407,
+    "timeYear": 1242,
     "dailyMinutesDown": {
       "2025-04-11": 16,
       "2025-04-01": 58,
@@ -103,8 +102,7 @@
       "2024-07-24": 25,
       "2024-07-10": 34,
       "2024-05-23": 16,
-      "2024-05-22": 52,
-      "2024-05-08": 25
+      "2024-05-22": 52
     }
   },
   {
@@ -114,13 +112,13 @@
     "slug": "recruit-connect-es-status",
     "status": "up",
     "uptime": "98.59%",
-    "uptimeDay": "97.41%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.63%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.70%",
     "time": 295,
-    "timeDay": 272,
-    "timeWeek": 268,
+    "timeDay": 298,
+    "timeWeek": 269,
     "timeMonth": 272,
     "timeYear": 294,
     "dailyMinutesDown": {
@@ -161,8 +159,7 @@
       "2024-05-22": 44,
       "2024-05-15": 21,
       "2024-05-12": 23,
-      "2024-05-11": 22,
-      "2024-05-08": 25
+      "2024-05-11": 22
     }
   }
 ]
