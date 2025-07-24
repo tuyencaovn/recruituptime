@@ -10,11 +10,11 @@
     "uptimeWeek": "99.11%",
     "uptimeMonth": "99.02%",
     "uptimeYear": "99.61%",
-    "time": 3333,
-    "timeDay": 3397,
-    "timeWeek": 4553,
-    "timeMonth": 6876,
-    "timeYear": 3782,
+    "time": 3343,
+    "timeDay": 4737,
+    "timeWeek": 4754,
+    "timeMonth": 6937,
+    "timeYear": 3792,
     "dailyMinutesDown": {
       "2025-07-22": 29,
       "2025-07-21": 61,
@@ -50,18 +50,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/admin.recruitconnect.vn.ico",
     "slug": "recruit-connect-back-office",
     "status": "up",
-    "uptime": "96.09%",
-    "uptimeDay": "98.25%",
-    "uptimeWeek": "98.74%",
-    "uptimeMonth": "97.13%",
+    "uptime": "96.10%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.79%",
+    "uptimeMonth": "97.14%",
     "uptimeYear": "99.62%",
-    "time": 1539,
-    "timeDay": 3680,
-    "timeWeek": 3481,
-    "timeMonth": 2309,
-    "timeYear": 1638,
+    "time": 1547,
+    "timeDay": 4137,
+    "timeWeek": 3635,
+    "timeMonth": 2378,
+    "timeYear": 1646,
     "dailyMinutesDown": {
-      "2025-07-23": 6,
       "2025-07-22": 20,
       "2025-07-21": 102,
       "2025-07-13": 49,
@@ -76,8 +75,7 @@
       "2024-09-24": 282,
       "2024-08-08": 110,
       "2024-08-07": 23,
-      "2024-08-05": 43,
-      "2024-07-24": 26
+      "2024-08-05": 43
     }
   },
   {
@@ -91,11 +89,11 @@
     "uptimeWeek": "99.82%",
     "uptimeMonth": "97.59%",
     "uptimeYear": "99.62%",
-    "time": 1410,
-    "timeDay": 2793,
-    "timeWeek": 4131,
+    "time": 1411,
+    "timeDay": 1454,
+    "timeWeek": 4148,
     "timeMonth": 2385,
-    "timeYear": 1418,
+    "timeYear": 1420,
     "dailyMinutesDown": {
       "2025-07-20": 18,
       "2025-07-13": 48,
@@ -111,8 +109,7 @@
       "2024-08-08": 110,
       "2024-08-07": 23,
       "2024-08-06": 37,
-      "2024-08-05": 25,
-      "2024-07-24": 25
+      "2024-08-05": 25
     }
   },
   {
@@ -127,8 +124,8 @@
     "uptimeMonth": "97.64%",
     "uptimeYear": "99.59%",
     "time": 291,
-    "timeDay": 257,
-    "timeWeek": 252,
+    "timeDay": 281,
+    "timeWeek": 250,
     "timeMonth": 265,
     "timeYear": 296,
     "dailyMinutesDown": {
