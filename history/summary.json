@@ -10,11 +10,11 @@
     "uptimeWeek": "97.41%",
     "uptimeMonth": "98.43%",
     "uptimeYear": "99.56%",
-    "time": 3834,
-    "timeDay": 1724,
-    "timeWeek": 11972,
-    "timeMonth": 8689,
-    "timeYear": 4300,
+    "time": 3835,
+    "timeDay": 2207,
+    "timeWeek": 12765,
+    "timeMonth": 8673,
+    "timeYear": 4299,
     "dailyMinutesDown": {
       "2025-07-30": 261,
       "2025-07-22": 29,
@@ -41,8 +41,7 @@
       "2024-08-26": 37,
       "2024-08-25": 6,
       "2024-08-23": 46,
-      "2024-08-06": 21,
-      "2024-08-05": 26
+      "2024-08-06": 21
     }
   },
   {
@@ -54,13 +53,13 @@
     "uptime": "96.15%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.68%",
+    "uptimeMonth": "99.61%",
     "uptimeYear": "99.63%",
-    "time": 1548,
-    "timeDay": 1013,
-    "timeWeek": 1241,
-    "timeMonth": 2387,
-    "timeYear": 1656,
+    "time": 1549,
+    "timeDay": 1641,
+    "timeWeek": 1337,
+    "timeMonth": 2419,
+    "timeYear": 1657,
     "dailyMinutesDown": {
       "2025-07-22": 20,
       "2025-07-21": 102,
@@ -75,8 +74,7 @@
       "2024-09-25": 106,
       "2024-09-24": 282,
       "2024-08-08": 110,
-      "2024-08-07": 23,
-      "2024-08-05": 43
+      "2024-08-07": 23
     }
   },
   {
@@ -85,16 +83,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.recruitconnect.vn.ico",
     "slug": "recruit-connect-api",
     "status": "up",
-    "uptime": "99.35%",
+    "uptime": "99.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.13%",
+    "uptimeMonth": "99.85%",
     "uptimeYear": "99.63%",
-    "time": 1416,
-    "timeDay": 1095,
-    "timeWeek": 1306,
-    "timeMonth": 2367,
-    "timeYear": 1427,
+    "time": 1404,
+    "timeDay": 1375,
+    "timeWeek": 1329,
+    "timeMonth": 2548,
+    "timeYear": 1428,
     "dailyMinutesDown": {
       "2025-07-20": 18,
       "2025-07-13": 48,
@@ -109,8 +107,7 @@
       "2024-09-24": 432,
       "2024-08-08": 110,
       "2024-08-07": 23,
-      "2024-08-06": 37,
-      "2024-08-05": 25
+      "2024-08-06": 37
     }
   },
   {
@@ -122,12 +119,12 @@
     "uptime": "98.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.17%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "99.59%",
     "time": 293,
-    "timeDay": 237,
-    "timeWeek": 276,
-    "timeMonth": 267,
+    "timeDay": 252,
+    "timeWeek": 275,
+    "timeMonth": 269,
     "timeYear": 296,
     "dailyMinutesDown": {
       "2025-07-13": 48,
@@ -152,8 +149,7 @@
       "2024-08-09": 17,
       "2024-08-08": 110,
       "2024-08-07": 45,
-      "2024-08-06": 37,
-      "2024-08-05": 24
+      "2024-08-06": 37
     }
   }
 ]
