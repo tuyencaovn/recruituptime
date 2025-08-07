@@ -6,17 +6,16 @@
     "slug": "recruit-connect-website",
     "status": "up",
     "uptime": "99.60%",
-    "uptimeDay": "99.13%",
-    "uptimeWeek": "98.24%",
-    "uptimeMonth": "98.40%",
-    "uptimeYear": "99.56%",
-    "time": 3837,
-    "timeDay": 2158,
-    "timeWeek": 11386,
-    "timeMonth": 8680,
-    "timeYear": 4290,
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "98.43%",
+    "uptimeYear": "99.57%",
+    "time": 3838,
+    "timeDay": 2149,
+    "timeWeek": 2034,
+    "timeMonth": 8820,
+    "timeYear": 4288,
     "dailyMinutesDown": {
-      "2025-08-06": 13,
       "2025-07-30": 261,
       "2025-07-22": 29,
       "2025-07-21": 61,
@@ -56,10 +55,10 @@
     "uptimeMonth": "99.61%",
     "uptimeYear": "99.64%",
     "time": 1549,
-    "timeDay": 1563,
-    "timeWeek": 1420,
-    "timeMonth": 2422,
-    "timeYear": 1660,
+    "timeDay": 1258,
+    "timeWeek": 1411,
+    "timeMonth": 2423,
+    "timeYear": 1661,
     "dailyMinutesDown": {
       "2025-07-22": 20,
       "2025-07-21": 102,
@@ -73,8 +72,7 @@
       "2024-11-06": 17,
       "2024-09-25": 106,
       "2024-09-24": 282,
-      "2024-08-08": 110,
-      "2024-08-07": 23
+      "2024-08-08": 110
     }
   },
   {
@@ -88,11 +86,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.64%",
-    "time": 1405,
-    "timeDay": 1477,
-    "timeWeek": 1424,
-    "timeMonth": 2546,
-    "timeYear": 1430,
+    "time": 1406,
+    "timeDay": 1327,
+    "timeWeek": 1383,
+    "timeMonth": 2553,
+    "timeYear": 1431,
     "dailyMinutesDown": {
       "2025-07-20": 18,
       "2025-07-13": 48,
@@ -105,8 +103,7 @@
       "2024-11-06": 29,
       "2024-09-25": 122,
       "2024-09-24": 432,
-      "2024-08-08": 110,
-      "2024-08-07": 23
+      "2024-08-08": 110
     }
   },
   {
@@ -121,9 +118,9 @@
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.59%",
     "time": 293,
-    "timeDay": 286,
-    "timeWeek": 274,
-    "timeMonth": 269,
+    "timeDay": 280,
+    "timeWeek": 273,
+    "timeMonth": 270,
     "timeYear": 296,
     "dailyMinutesDown": {
       "2025-08-05": 28,
@@ -147,8 +144,7 @@
       "2024-08-22": 17,
       "2024-08-21": 22,
       "2024-08-09": 17,
-      "2024-08-08": 110,
-      "2024-08-07": 45
+      "2024-08-08": 110
     }
   }
 ]
