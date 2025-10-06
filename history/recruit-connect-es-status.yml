@@ -1,7 +1,7 @@
 url: https://api.recruitconnect.vn/elasticsearch/check-status
-status: up
-code: 200
-responseTime: 245
-lastUpdated: 2025-10-05T23:00:56.504Z
+status: down
+code: 500
+responseTime: 273
+lastUpdated: 2025-10-06T01:00:11.285Z
 startTime: 2023-04-17T11:12:57.000Z
 generator: Upptime <https://github.com/upptime/upptime>
