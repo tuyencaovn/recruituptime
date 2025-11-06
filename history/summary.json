@@ -6,17 +6,16 @@
     "slug": "recruit-connect-website",
     "status": "up",
     "uptime": "99.58%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.48%",
     "time": 3900,
-    "timeDay": 1990,
-    "timeWeek": 1809,
-    "timeMonth": 2391,
-    "timeYear": 4085,
+    "timeDay": 1868,
+    "timeWeek": 1824,
+    "timeMonth": 2423,
+    "timeYear": 4084,
     "dailyMinutesDown": {
-      "2025-11-05": 7,
       "2025-10-07": 16,
       "2025-10-05": 37,
       "2025-10-04": 1,
@@ -55,10 +54,10 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.73%",
     "time": 1594,
-    "timeDay": 1519,
-    "timeWeek": 1766,
-    "timeMonth": 1590,
-    "timeYear": 1480,
+    "timeDay": 1208,
+    "timeWeek": 1800,
+    "timeMonth": 1593,
+    "timeYear": 1479,
     "dailyMinutesDown": {
       "2025-10-07": 15,
       "2025-07-22": 20,
@@ -69,8 +68,7 @@
       "2025-06-30": 448,
       "2025-05-20": 42,
       "2025-04-11": 25,
-      "2025-04-01": 58,
-      "2024-11-06": 17
+      "2025-04-01": 58
     }
   },
   {
@@ -85,9 +83,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.77%",
     "time": 1445,
-    "timeDay": 1422,
-    "timeWeek": 1220,
-    "timeMonth": 1517,
+    "timeDay": 1198,
+    "timeWeek": 1228,
+    "timeMonth": 1524,
     "timeYear": 1524,
     "dailyMinutesDown": {
       "2025-07-20": 18,
@@ -97,8 +95,7 @@
       "2025-06-30": 448,
       "2025-05-20": 41,
       "2025-04-11": 16,
-      "2025-04-01": 58,
-      "2024-11-06": 29
+      "2025-04-01": 58
     }
   },
   {
@@ -113,9 +110,9 @@
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.71%",
     "time": 293,
-    "timeDay": 325,
-    "timeWeek": 273,
-    "timeMonth": 272,
+    "timeDay": 267,
+    "timeWeek": 274,
+    "timeMonth": 273,
     "timeYear": 299,
     "dailyMinutesDown": {
       "2025-11-03": 17,
@@ -137,8 +134,7 @@
       "2025-05-06": 37,
       "2025-04-01": 58,
       "2025-03-26": 37,
-      "2025-01-12": 37,
-      "2024-11-06": 17
+      "2025-01-12": 37
     }
   }
 ]
