@@ -10,6 +10,8 @@ sites:
     url: https://api.recruitconnect.vn
   - name: Recruit Connect - ES Status
     url: https://api.recruitconnect.vn/elasticsearch/check-status
+  - name: build2orderpallets - Status
+    url: https://www.build2orderpallets.com/oakland/
 
 status-website:
   cname: all.webuptime2023.online
