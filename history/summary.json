@@ -147,18 +147,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.build2orderpallets.com.ico",
     "slug": "build2orderpallets-status",
     "status": "down",
-    "uptime": "2.04%",
-    "uptimeDay": "2.04%",
-    "uptimeWeek": "2.04%",
-    "uptimeMonth": "2.04%",
-    "uptimeYear": "2.04%",
+    "uptime": "0.98%",
+    "uptimeDay": "0.98%",
+    "uptimeWeek": "0.98%",
+    "uptimeMonth": "0.98%",
+    "uptimeYear": "0.98%",
     "time": 783,
     "timeDay": 783,
     "timeWeek": 783,
     "timeMonth": 783,
     "timeYear": 783,
     "dailyMinutesDown": {
-      "2025-12-04": 0
+      "2025-12-04": 1
     }
   }
 ]
