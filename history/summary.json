@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/recruitconnect.vn.ico",
     "slug": "recruit-connect-website",
     "status": "up",
-    "uptime": "99.83%",
-    "uptimeDay": "91.95%",
-    "uptimeWeek": "95.27%",
-    "uptimeMonth": "95.99%",
-    "uptimeYear": "99.50%",
+    "uptime": "99.82%",
+    "uptimeDay": "92.30%",
+    "uptimeWeek": "95.32%",
+    "uptimeMonth": "96.00%",
+    "uptimeYear": "99.49%",
     "time": 2879,
     "timeDay": 1758,
-    "timeWeek": 1725,
+    "timeWeek": 1720,
     "timeMonth": 1802,
     "timeYear": 2919,
     "dailyMinutesDown": {
-      "2026-03-02": 116,
+      "2026-03-02": 111,
       "2026-03-01": 89,
       "2026-02-27": 28,
       "2026-02-26": 136,
@@ -70,7 +70,8 @@
       "2025-10-05": 37,
       "2025-10-04": 1,
       "2025-09-30": 39,
-      "2025-09-29": 141
+      "2025-09-29": 141,
+      "2025-09-20": 38
     }
   },
   {
@@ -86,7 +87,7 @@
     "uptimeYear": "99.73%",
     "time": 1419,
     "timeDay": 827,
-    "timeWeek": 1178,
+    "timeWeek": 1163,
     "timeMonth": 1210,
     "timeYear": 1457,
     "dailyMinutesDown": {
@@ -116,7 +117,7 @@
     "uptimeYear": "99.76%",
     "time": 1467,
     "timeDay": 822,
-    "timeWeek": 1123,
+    "timeWeek": 1159,
     "timeMonth": 1180,
     "timeYear": 1544,
     "dailyMinutesDown": {
@@ -145,7 +146,7 @@
     "uptimeYear": "99.66%",
     "time": 273,
     "timeDay": 264,
-    "timeWeek": 264,
+    "timeWeek": 267,
     "timeMonth": 272,
     "timeYear": 272,
     "dailyMinutesDown": {
@@ -192,11 +193,12 @@
     "uptimeYear": "0.00%",
     "time": 725,
     "timeDay": 857,
-    "timeWeek": 794,
+    "timeWeek": 790,
     "timeMonth": 759,
     "timeYear": 725,
     "dailyMinutesDown": {
-      "2026-03-02": 1388,
+      "2026-03-03": 29,
+      "2026-03-02": 1440,
       "2026-03-01": 1440,
       "2026-02-28": 1440,
       "2026-02-27": 1440,
