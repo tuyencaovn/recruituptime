@@ -4,16 +4,16 @@
     "url": "https://recruitconnect.vn",
     "icon": "https://icons.duckduckgo.com/ip3/recruitconnect.vn.ico",
     "slug": "recruit-connect-website",
-    "status": "down",
-    "uptime": "99.78%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "98.33%",
-    "uptimeMonth": "97.21%",
-    "uptimeYear": "99.31%",
+    "status": "up",
+    "uptime": "99.77%",
+    "uptimeDay": "93.10%",
+    "uptimeWeek": "97.35%",
+    "uptimeMonth": "96.99%",
+    "uptimeYear": "99.30%",
     "time": 2655,
-    "timeDay": 1690,
-    "timeWeek": 1848,
-    "timeMonth": 1991,
+    "timeDay": 1926,
+    "timeWeek": 1878,
+    "timeMonth": 1995,
     "timeYear": 2511,
     "dailyMinutesDown": {
       "2026-04-07": 124,
@@ -54,7 +54,7 @@
       "2026-05-26": 142,
       "2026-05-28": 22,
       "2026-05-30": 76,
-      "2026-06-02": 0
+      "2026-06-02": 99
     }
   },
   {
@@ -175,7 +175,7 @@
     "timeMonth": 242,
     "timeYear": 666,
     "dailyMinutesDown": {
-      "2026-06-02": 312,
+      "2026-06-02": 412,
       "2026-06-01": 1440,
       "2026-05-31": 1440,
       "2026-05-30": 1440,
