@@ -6,15 +6,15 @@
     "slug": "recruit-connect-website",
     "status": "down",
     "uptime": "99.59%",
-    "uptimeDay": "86.85%",
-    "uptimeWeek": "77.63%",
-    "uptimeMonth": "85.71%",
-    "uptimeYear": "98.70%",
-    "time": 2517,
+    "uptimeDay": "84.78%",
+    "uptimeWeek": "77.34%",
+    "uptimeMonth": "85.64%",
+    "uptimeYear": "98.69%",
+    "time": 2514,
     "timeDay": 1674,
-    "timeWeek": 1734,
+    "timeWeek": 1719,
     "timeMonth": 2256,
-    "timeYear": 2495,
+    "timeYear": 2491,
     "dailyMinutesDown": {
       "2026-05-03": 1,
       "2026-05-02": 20,
@@ -53,7 +53,7 @@
       "2026-06-18": 541,
       "2026-06-19": 153,
       "2026-06-20": 502,
-      "2026-06-21": 168
+      "2026-06-21": 198
     }
   },
   {
@@ -71,7 +71,7 @@
     "timeDay": 1551,
     "timeWeek": 1349,
     "timeMonth": 1201,
-    "timeYear": 1460,
+    "timeYear": 1461,
     "dailyMinutesDown": {
       "2025-06-30": 448,
       "2025-07-04": 434,
@@ -100,7 +100,7 @@
     "timeDay": 1280,
     "timeWeek": 1291,
     "timeMonth": 1215,
-    "timeYear": 1516,
+    "timeYear": 1517,
     "dailyMinutesDown": {
       "2025-06-30": 448,
       "2025-07-04": 341,
@@ -177,7 +177,7 @@
     "timeMonth": 154,
     "timeYear": 616,
     "dailyMinutesDown": {
-      "2026-06-21": 1368,
+      "2026-06-21": 1398,
       "2026-06-20": 1440,
       "2026-06-19": 1440,
       "2026-06-18": 1440,
