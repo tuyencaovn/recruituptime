@@ -6,14 +6,14 @@
     "slug": "recruit-connect-website",
     "status": "down",
     "uptime": "99.42%",
-    "uptimeDay": "61.31%",
-    "uptimeWeek": "86.33%",
-    "uptimeMonth": "78.74%",
-    "uptimeYear": "98.13%",
+    "uptimeDay": "57.16%",
+    "uptimeWeek": "85.74%",
+    "uptimeMonth": "78.62%",
+    "uptimeYear": "98.12%",
     "time": 2445,
     "timeDay": 1620,
     "timeWeek": 1865,
-    "timeMonth": 1771,
+    "timeMonth": 1767,
     "timeYear": 2267,
     "dailyMinutesDown": {
       "2026-06-16": 175,
@@ -46,7 +46,7 @@
       "2026-07-15": 110,
       "2026-07-16": 82,
       "2026-07-17": 556,
-      "2026-07-18": 0
+      "2026-07-18": 60
     }
   },
   {
@@ -158,7 +158,7 @@
     "timeMonth": 178,
     "timeYear": 567,
     "dailyMinutesDown": {
-      "2026-07-18": 85,
+      "2026-07-18": 144,
       "2026-07-17": 1440,
       "2026-07-16": 1440,
       "2026-07-15": 1440,
