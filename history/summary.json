@@ -58,11 +58,11 @@
     "url": "https://admin.recruitconnect.vn",
     "icon": "https://icons.duckduckgo.com/ip3/admin.recruitconnect.vn.ico",
     "slug": "recruit-connect-back-office",
-    "status": "up",
+    "status": "down",
     "uptime": "97.39%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.28%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.88%",
     "time": 1408,
     "timeDay": 992,
@@ -73,7 +73,8 @@
       "2025-10-07": 15,
       "2026-01-13": 45,
       "2026-06-19": 153,
-      "2026-06-18": 402
+      "2026-06-18": 402,
+      "2026-09-22": 10
     }
   },
   {
@@ -81,11 +82,11 @@
     "url": "https://api.recruitconnect.vn",
     "icon": "https://icons.duckduckgo.com/ip3/api.recruitconnect.vn.ico",
     "slug": "recruit-connect-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.53%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.62%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.88%",
     "time": 1456,
     "timeDay": 1017,
@@ -96,7 +97,8 @@
       "2026-01-12": 23,
       "2026-01-13": 45,
       "2026-06-19": 153,
-      "2026-06-18": 401
+      "2026-06-18": 401,
+      "2026-09-22": 5
     }
   },
   {
@@ -104,13 +106,13 @@
     "url": "https://api.recruitconnect.vn/elasticsearch/check-status",
     "icon": "https://icons.duckduckgo.com/ip3/api.recruitconnect.vn.ico",
     "slug": "recruit-connect-es-status",
-    "status": "up",
+    "status": "down",
     "uptime": "99.39%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.79%",
-    "time": 470,
+    "time": 471,
     "timeDay": 1044,
     "timeWeek": 1129,
     "timeMonth": 1085,
@@ -134,7 +136,8 @@
       "2026-04-15": 29,
       "2026-04-20": 43,
       "2026-06-19": 153,
-      "2026-06-18": 401
+      "2026-06-18": 401,
+      "2026-09-22": 1
     }
   },
   {
@@ -154,7 +157,7 @@
     "timeMonth": 222,
     "timeYear": 487,
     "dailyMinutesDown": {
-      "2026-09-22": 208,
+      "2026-09-22": 1165,
       "2026-09-21": 1440,
       "2026-09-20": 1440,
       "2026-09-19": 1440,
