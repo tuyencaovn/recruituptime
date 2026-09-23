@@ -13,7 +13,7 @@
     "time": 2270,
     "timeDay": 2068,
     "timeWeek": 2197,
-    "timeMonth": 3749,
+    "timeMonth": 3792,
     "timeYear": 2027,
     "dailyMinutesDown": {
       "2026-06-22": 200,
@@ -58,23 +58,24 @@
     "url": "https://admin.recruitconnect.vn",
     "icon": "https://icons.duckduckgo.com/ip3/admin.recruitconnect.vn.ico",
     "slug": "recruit-connect-back-office",
-    "status": "up",
+    "status": "down",
     "uptime": "97.38%",
-    "uptimeDay": "88.12%",
-    "uptimeWeek": "98.30%",
-    "uptimeMonth": "99.61%",
+    "uptimeDay": "87.42%",
+    "uptimeWeek": "98.20%",
+    "uptimeMonth": "99.59%",
     "uptimeYear": "99.85%",
     "time": 1408,
     "timeDay": 1015,
     "timeWeek": 1137,
-    "timeMonth": 1165,
+    "timeMonth": 1161,
     "timeYear": 1282,
     "dailyMinutesDown": {
       "2025-10-07": 15,
       "2026-01-13": 45,
       "2026-06-19": 153,
       "2026-06-18": 402,
-      "2026-09-22": 171
+      "2026-09-22": 171,
+      "2026-09-23": 10
     }
   },
   {
@@ -82,23 +83,24 @@
     "url": "https://api.recruitconnect.vn",
     "icon": "https://icons.duckduckgo.com/ip3/api.recruitconnect.vn.ico",
     "slug": "recruit-connect-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.52%",
-    "uptimeDay": "88.46%",
-    "uptimeWeek": "98.35%",
-    "uptimeMonth": "99.62%",
+    "uptimeDay": "88.09%",
+    "uptimeWeek": "98.30%",
+    "uptimeMonth": "99.61%",
     "uptimeYear": "99.85%",
     "time": 1457,
     "timeDay": 1272,
     "timeWeek": 1155,
-    "timeMonth": 1119,
-    "timeYear": 1277,
+    "timeMonth": 1113,
+    "timeYear": 1278,
     "dailyMinutesDown": {
       "2026-01-12": 23,
       "2026-01-13": 45,
       "2026-06-19": 153,
       "2026-06-18": 401,
-      "2026-09-22": 166
+      "2026-09-22": 166,
+      "2026-09-23": 5
     }
   },
   {
@@ -106,16 +108,16 @@
     "url": "https://api.recruitconnect.vn/elasticsearch/check-status",
     "icon": "https://icons.duckduckgo.com/ip3/api.recruitconnect.vn.ico",
     "slug": "recruit-connect-es-status",
-    "status": "up",
-    "uptime": "99.38%",
-    "uptimeDay": "88.80%",
-    "uptimeWeek": "98.40%",
+    "status": "down",
+    "uptime": "99.41%",
+    "uptimeDay": "88.76%",
+    "uptimeWeek": "98.39%",
     "uptimeMonth": "99.63%",
     "uptimeYear": "99.76%",
     "time": 472,
     "timeDay": 1000,
     "timeWeek": 1107,
-    "timeMonth": 1081,
+    "timeMonth": 1076,
     "timeYear": 526,
     "dailyMinutesDown": {
       "2025-10-06": 37,
@@ -137,7 +139,8 @@
       "2026-04-20": 43,
       "2026-06-19": 153,
       "2026-06-18": 401,
-      "2026-09-22": 161
+      "2026-09-22": 161,
+      "2026-09-23": 1
     }
   },
   {
@@ -154,10 +157,11 @@
     "time": 487,
     "timeDay": 82,
     "timeWeek": 184,
-    "timeMonth": 222,
+    "timeMonth": 224,
     "timeYear": 487,
     "dailyMinutesDown": {
-      "2026-09-22": 1326,
+      "2026-09-23": 38,
+      "2026-09-22": 1440,
       "2026-09-21": 1440,
       "2026-09-20": 1440,
       "2026-09-19": 1440,
